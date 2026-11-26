@@ -1,0 +1,6 @@
+__pycache__/
+*.pyc
+src.py
+header.txt
+extra_install.sh
+extra_uninstall.sh
